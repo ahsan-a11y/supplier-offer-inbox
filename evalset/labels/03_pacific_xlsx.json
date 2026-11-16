@@ -1,0 +1,228 @@
+{
+  "id": "03_pacific_xlsx",
+  "kind": "spreadsheet attachment",
+  "message_id": "<eval-03_pacific_xlsx@offer-inbox.test>",
+  "is_offer": true,
+  "items": [
+    {
+      "brand": "AquaPura",
+      "sku": "PB-1001",
+      "condition": null,
+      "quantity_available": 1500,
+      "quantity_unit": "cases",
+      "unit_price": 6.9,
+      "currency": "EUR",
+      "price_basis": [
+        "per case of 24",
+        "per case",
+        "per case (24 x 330ml)"
+      ],
+      "ship_from": "EXW Hamburg",
+      "valid_until": "2026-11-27",
+      "notes": null,
+      "supplier_name": "Pacific Beverage GmbH",
+      "category": "Food & Beverage",
+      "source_attachment": "Stock_offer_KW45.xlsx",
+      "product_name": "Sparkling water 330ml",
+      "supplier_email": "export@pacific-beverage.example"
+    },
+    {
+      "brand": "AquaPura",
+      "sku": "PB-1002",
+      "condition": null,
+      "quantity_available": 1800,
+      "quantity_unit": "cases",
+      "unit_price": 5.4,
+      "currency": "EUR",
+      "price_basis": [
+        "per case of 24",
+        "per case",
+        "per case (24 x 500ml)"
+      ],
+      "ship_from": "EXW Hamburg",
+      "valid_until": "2026-11-27",
+      "notes": null,
+      "supplier_name": "Pacific Beverage GmbH",
+      "category": "Food & Beverage",
+      "source_attachment": "Stock_offer_KW45.xlsx",
+      "product_name": "Still water 500ml",
+      "supplier_email": "export@pacific-beverage.example"
+    },
+    {
+      "brand": "FizzCo",
+      "sku": "PB-1101",
+      "condition": null,
+      "quantity_available": 900,
+      "quantity_unit": "cases",
+      "unit_price": 9.8,
+      "currency": "EUR",
+      "price_basis": [
+        "per case of 24",
+        "per case",
+        "per case (24 x 330ml)"
+      ],
+      "ship_from": "EXW Hamburg",
+      "valid_until": "2026-11-27",
+      "notes": null,
+      "supplier_name": "Pacific Beverage GmbH",
+      "category": "Food & Beverage",
+      "source_attachment": "Stock_offer_KW45.xlsx",
+      "product_name": "Cola 330ml can",
+      "supplier_email": "export@pacific-beverage.example"
+    },
+    {
+      "brand": "FizzCo",
+      "sku": "PB-1102",
+      "condition": null,
+      "quantity_available": 700,
+      "quantity_unit": "cases",
+      "unit_price": 9.8,
+      "currency": "EUR",
+      "price_basis": [
+        "per case of 24",
+        "per case",
+        "per case (24 x 330ml)"
+      ],
+      "ship_from": "EXW Hamburg",
+      "valid_until": "2026-11-27",
+      "notes": null,
+      "supplier_name": "Pacific Beverage GmbH",
+      "category": "Food & Beverage",
+      "source_attachment": "Stock_offer_KW45.xlsx",
+      "product_name": "Cola Zero 330ml can",
+      "supplier_email": "export@pacific-beverage.example"
+    },
+    {
+      "brand": "Sunvale",
+      "sku": "PB-1201",
+      "condition": null,
+      "quantity_available": 400,
+      "quantity_unit": "cases",
+      "unit_price": 14.2,
+      "currency": "EUR",
+      "price_basis": [
+        "per case of 12",
+        "per case",
+        "per case (12 x 1L)"
+      ],
+      "ship_from": "EXW Hamburg",
+      "valid_until": "2026-11-27",
+      "notes": null,
+      "supplier_name": "Pacific Beverage GmbH",
+      "category": "Food & Beverage",
+      "source_attachment": "Stock_offer_KW45.xlsx",
+      "product_name": "Orange juice 1L",
+      "supplier_email": "export@pacific-beverage.example"
+    },
+    {
+      "brand": "Sunvale",
+      "sku": "PB-1202",
+      "condition": null,
+      "quantity_available": 350,
+      "quantity_unit": "cases",
+      "unit_price": 13.6,
+      "currency": "EUR",
+      "price_basis": [
+        "per case of 12",
+        "per case",
+        "per case (12 x 1L)"
+      ],
+      "ship_from": "EXW Hamburg",
+      "valid_until": "2026-11-27",
+      "notes": null,
+      "supplier_name": "Pacific Beverage GmbH",
+      "category": "Food & Beverage",
+      "source_attachment": "Stock_offer_KW45.xlsx",
+      "product_name": "Apple juice 1L",
+      "supplier_email": "export@pacific-beverage.example"
+    },
+    {
+      "brand": "TeaTime",
+      "sku": "PB-1301",
+      "condition": null,
+      "quantity_available": 600,
+      "quantity_unit": "cases",
+      "unit_price": 11.3,
+      "currency": "EUR",
+      "price_basis": [
+        "per case of 24",
+        "per case",
+        "per case (24 x 500ml)"
+      ],
+      "ship_from": "EXW Hamburg",
+      "valid_until": "2026-11-27",
+      "notes": null,
+      "supplier_name": "Pacific Beverage GmbH",
+      "category": "Food & Beverage",
+      "source_attachment": "Stock_offer_KW45.xlsx",
+      "product_name": "Iced tea lemon 500ml",
+      "supplier_email": "export@pacific-beverage.example"
+    },
+    {
+      "brand": "TeaTime",
+      "sku": "PB-1302",
+      "condition": null,
+      "quantity_available": 550,
+      "quantity_unit": "cases",
+      "unit_price": 11.3,
+      "currency": "EUR",
+      "price_basis": [
+        "per case of 24",
+        "per case",
+        "per case (24 x 500ml)"
+      ],
+      "ship_from": "EXW Hamburg",
+      "valid_until": "2026-11-27",
+      "notes": null,
+      "supplier_name": "Pacific Beverage GmbH",
+      "category": "Food & Beverage",
+      "source_attachment": "Stock_offer_KW45.xlsx",
+      "product_name": "Iced tea peach 500ml",
+      "supplier_email": "export@pacific-beverage.example"
+    },
+    {
+      "brand": "VoltX",
+      "sku": "PB-1401",
+      "condition": null,
+      "quantity_available": 1000,
+      "quantity_unit": "cases",
+      "unit_price": 15.9,
+      "currency": "EUR",
+      "price_basis": [
+        "per case of 24",
+        "per case",
+        "per case (24 x 250ml)"
+      ],
+      "ship_from": "EXW Hamburg",
+      "valid_until": "2026-11-27",
+      "notes": null,
+      "supplier_name": "Pacific Beverage GmbH",
+      "category": "Food & Beverage",
+      "source_attachment": "Stock_offer_KW45.xlsx",
+      "product_name": "Energy drink 250ml",
+      "supplier_email": "export@pacific-beverage.example"
+    },
+    {
+      "brand": "VoltX",
+      "sku": "PB-1402",
+      "condition": null,
+      "quantity_available": 800,
+      "quantity_unit": "cases",
+      "unit_price": 15.9,
+      "currency": "EUR",
+      "price_basis": [
+        "per case of 24",
+        "per case",
+        "per case (24 x 250ml)"
+      ],
+      "ship_from": "EXW Hamburg",
+      "valid_until": "2026-11-27",
+      "notes": null,
+      "supplier_name": "Pacific Beverage GmbH",
+      "category": "Food & Beverage",
+      "source_attachment": "Stock_offer_KW45.xlsx",
+      "product_name": "Energy drink sugar-free 250ml",
+      "supplier_email": "export@pacific-beverage.example"
+    }
+  ]
+}

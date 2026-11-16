@@ -1,0 +1,38 @@
+From: Lumen Home Goods <trade@lumenhome.example>
+To: purchasing@inbox.example
+Subject: This week's special + availability
+Date: Sat, 07 Nov 2026 09:00:00 -0500
+Message-ID: <eval-09_lumen_body_plus_csv@offer-inbox.test>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============8373438758298751004=="
+
+--===============8373438758298751004==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi there,
+
+This week's special: Bamboo cutting board set (3pc), item HG-3301, 1,000 sets=
+ at $7.25/set.
+
+Our regular availability list is attached (CSV). Everything ships FOB Newark,=
+ NJ.
+
+Cheers,
+Priya Shah
+Lumen Home Goods
+
+--===============8373438758298751004==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="lumen_availability.csv"
+MIME-Version: 1.0
+
+U0tVLFByb2R1Y3QsQnJhbmQsUXR5LFVuaXQsUHJpY2UgVVNEDQpIRy0xMTAxLENlcmFtaWMgZGlu
+bmVyIHBsYXRlIDEwaW4sTHVtZW4sNTAwMCx1bml0cywxLjg1DQpIRy0xMTAyLFN0b25ld2FyZSBt
+dWcgMTJveixMdW1lbiwzNjAwLHVuaXRzLDEuNA0KSEctMjIwMSxNaWNyb2ZpYmVyIHRvd2VsIDYt
+cGFjayxDbGVhblBybywxMjAwLHBhY2tzLDQuOTUNCkhHLTIyMDIsQ290dG9uIGJhdGggdG93ZWws
+Q2xlYW5Qcm8sMjAwMCx1bml0cywzLjYNCkhHLTQ0MDEsR2xhc3Mgc3RvcmFnZSBjb250YWluZXIg
+c2V0IDEwcGMsRnJlc2hLZWVwLDgwMCxzZXRzLDguNzUNCg==
+
+--===============8373438758298751004==--

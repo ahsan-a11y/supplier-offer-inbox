@@ -1,0 +1,29 @@
+{
+  "id": "08_keystone_fwd_closeout",
+  "kind": "forwarded email, single closeout item priced per pallet",
+  "message_id": "<eval-08_keystone_fwd_closeout@offer-inbox.test>",
+  "is_offer": true,
+  "items": [
+    {
+      "brand": "Keystone",
+      "sku": null,
+      "condition": null,
+      "quantity_available": 22,
+      "quantity_unit": "pallets",
+      "unit_price": 1850,
+      "currency": "USD",
+      "price_basis": "per pallet",
+      "ship_from": [
+        "FOB Allentown, PA",
+        "FOB Allentown PA"
+      ],
+      "valid_until": "2026-11-16",
+      "notes": "40 cases per pallet, 10 reams per case",
+      "supplier_name": "Keystone Paper Mills",
+      "product_name": "Letter size copy paper, 20lb, 92 bright",
+      "category": "Office Supplies",
+      "source_attachment": null,
+      "supplier_email": "dan@keystonepaper.example"
+    }
+  ]
+}

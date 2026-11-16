@@ -1,0 +1,155 @@
+{
+  "id": "10_crescent_scan",
+  "kind": "scanned price list (grayscale, skewed, noisy)",
+  "message_id": "<eval-10_crescent_scan@offer-inbox.test>",
+  "is_offer": true,
+  "items": [
+    {
+      "brand": "Silkara",
+      "sku": "CH-201",
+      "condition": null,
+      "quantity_available": 7200,
+      "quantity_unit": "units",
+      "unit_price": 2.1,
+      "currency": "USD",
+      "price_basis": "per unit",
+      "ship_from": [
+        "Edison, NJ",
+        "Ship from Edison, NJ"
+      ],
+      "valid_until": "2026-12-05",
+      "notes": "MOQ 1 case per SKU (12 units)",
+      "supplier_name": "Crescent Health & Beauty",
+      "category": "Health & Beauty",
+      "source_attachment": "scan_20261107_1522.png",
+      "product_name": "Shampoo 400ml",
+      "supplier_email": "orders@crescenthb.example"
+    },
+    {
+      "brand": "Silkara",
+      "sku": "CH-202",
+      "condition": null,
+      "quantity_available": 6000,
+      "quantity_unit": "units",
+      "unit_price": 2.15,
+      "currency": "USD",
+      "price_basis": "per unit",
+      "ship_from": [
+        "Edison, NJ",
+        "Ship from Edison, NJ"
+      ],
+      "valid_until": "2026-12-05",
+      "notes": "MOQ 1 case per SKU (12 units)",
+      "supplier_name": "Crescent Health & Beauty",
+      "category": "Health & Beauty",
+      "source_attachment": "scan_20261107_1522.png",
+      "product_name": "Conditioner 400ml",
+      "supplier_email": "orders@crescenthb.example"
+    },
+    {
+      "brand": "PureDerm",
+      "sku": "CH-310",
+      "condition": null,
+      "quantity_available": 4800,
+      "quantity_unit": "units",
+      "unit_price": 1.75,
+      "currency": "USD",
+      "price_basis": "per unit",
+      "ship_from": [
+        "Edison, NJ",
+        "Ship from Edison, NJ"
+      ],
+      "valid_until": "2026-12-05",
+      "notes": "MOQ 1 case per SKU (12 units)",
+      "supplier_name": "Crescent Health & Beauty",
+      "category": "Health & Beauty",
+      "source_attachment": "scan_20261107_1522.png",
+      "product_name": "Body lotion 250ml",
+      "supplier_email": "orders@crescenthb.example"
+    },
+    {
+      "brand": "PureDerm",
+      "sku": "CH-311",
+      "condition": null,
+      "quantity_available": 9600,
+      "quantity_unit": "units",
+      "unit_price": 0.95,
+      "currency": "USD",
+      "price_basis": "per unit",
+      "ship_from": [
+        "Edison, NJ",
+        "Ship from Edison, NJ"
+      ],
+      "valid_until": "2026-12-05",
+      "notes": "MOQ 1 case per SKU (12 units)",
+      "supplier_name": "Crescent Health & Beauty",
+      "category": "Health & Beauty",
+      "source_attachment": "scan_20261107_1522.png",
+      "product_name": "Hand cream 75ml",
+      "supplier_email": "orders@crescenthb.example"
+    },
+    {
+      "brand": "BrightSmile",
+      "sku": "CH-420",
+      "condition": null,
+      "quantity_available": 12000,
+      "quantity_unit": "units",
+      "unit_price": 0.68,
+      "currency": "USD",
+      "price_basis": "per unit",
+      "ship_from": [
+        "Edison, NJ",
+        "Ship from Edison, NJ"
+      ],
+      "valid_until": "2026-12-05",
+      "notes": "MOQ 1 case per SKU (12 units)",
+      "supplier_name": "Crescent Health & Beauty",
+      "category": "Health & Beauty",
+      "source_attachment": "scan_20261107_1522.png",
+      "product_name": "Toothpaste 100ml",
+      "supplier_email": "orders@crescenthb.example"
+    },
+    {
+      "brand": "FreshAir",
+      "sku": "CH-505",
+      "condition": null,
+      "quantity_available": 5400,
+      "quantity_unit": "units",
+      "unit_price": 1.2,
+      "currency": "USD",
+      "price_basis": "per unit",
+      "ship_from": [
+        "Edison, NJ",
+        "Ship from Edison, NJ"
+      ],
+      "valid_until": "2026-12-05",
+      "notes": "MOQ 1 case per SKU (12 units)",
+      "supplier_name": "Crescent Health & Beauty",
+      "category": "Health & Beauty",
+      "source_attachment": "scan_20261107_1522.png",
+      "product_name": "Deodorant spray 150ml",
+      "supplier_email": "orders@crescenthb.example"
+    },
+    {
+      "brand": "Glowa",
+      "sku": "CH-610",
+      "condition": null,
+      "quantity_available": 2000,
+      "quantity_unit": "units",
+      "unit_price": 3.4,
+      "currency": "USD",
+      "price_basis": "per unit",
+      "ship_from": [
+        "Edison, NJ",
+        "Ship from Edison, NJ"
+      ],
+      "valid_until": "2026-12-05",
+      "notes": "MOQ 1 case per SKU (12 units)",
+      "supplier_name": "Crescent Health & Beauty",
+      "category": "Health & Beauty",
+      "source_attachment": "scan_20261107_1522.png",
+      "product_name": "Sheet face mask 10-pack",
+      "supplier_email": "orders@crescenthb.example"
+    }
+  ]
+}

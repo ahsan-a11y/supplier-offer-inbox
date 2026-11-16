@@ -1,0 +1,7 @@
+{
+  "id": "15_newsletter",
+  "kind": "NOT offer: industry newsletter mentioning prices",
+  "message_id": "<eval-15_newsletter@offer-inbox.test>",
+  "is_offer": false,
+  "items": []
+}

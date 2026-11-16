@@ -1,0 +1,116 @@
+{
+  "id": "07_brightline_refurb_gbp",
+  "kind": "offer in body, refurbished goods, GBP",
+  "message_id": "<eval-07_brightline_refurb_gbp@offer-inbox.test>",
+  "is_offer": true,
+  "items": [
+    {
+      "brand": "Dell",
+      "sku": [
+        "Latitude 5420",
+        null
+      ],
+      "condition": "Refurbished",
+      "quantity_available": 120,
+      "quantity_unit": "units",
+      "unit_price": 215,
+      "currency": "GBP",
+      "price_basis": "per unit",
+      "ship_from": [
+        "Ex works Manchester",
+        "EXW Manchester"
+      ],
+      "valid_until": null,
+      "notes": "12-month warranty; lead time 3 working days",
+      "supplier_name": [
+        "Brightline IT Remarketing Ltd",
+        "Brightline IT Remarketing"
+      ],
+      "category": "Computers",
+      "source_attachment": null,
+      "product_name": "Dell Latitude 5420, i5-1145G7, 16GB/256GB",
+      "supplier_email": "sam@brightline-itr.example"
+    },
+    {
+      "brand": "Lenovo",
+      "sku": [
+        "ThinkPad T14 Gen 2",
+        null
+      ],
+      "condition": "Refurbished",
+      "quantity_available": 85,
+      "quantity_unit": "units",
+      "unit_price": 239,
+      "currency": "GBP",
+      "price_basis": "per unit",
+      "ship_from": [
+        "Ex works Manchester",
+        "EXW Manchester"
+      ],
+      "valid_until": null,
+      "notes": "12-month warranty; lead time 3 working days",
+      "supplier_name": [
+        "Brightline IT Remarketing Ltd",
+        "Brightline IT Remarketing"
+      ],
+      "category": "Computers",
+      "source_attachment": null,
+      "product_name": "Lenovo ThinkPad T14 Gen 2, i5, 16GB/512GB",
+      "supplier_email": "sam@brightline-itr.example"
+    },
+    {
+      "brand": "HP",
+      "sku": [
+        "EliteBook 840 G8",
+        null
+      ],
+      "condition": "Refurbished",
+      "quantity_available": 60,
+      "quantity_unit": "units",
+      "unit_price": 289,
+      "currency": "GBP",
+      "price_basis": "per unit",
+      "ship_from": [
+        "Ex works Manchester",
+        "EXW Manchester"
+      ],
+      "valid_until": null,
+      "notes": "12-month warranty; lead time 3 working days",
+      "supplier_name": [
+        "Brightline IT Remarketing Ltd",
+        "Brightline IT Remarketing"
+      ],
+      "category": "Computers",
+      "source_attachment": null,
+      "product_name": "HP EliteBook 840 G8, i7, 16GB/512GB",
+      "supplier_email": "sam@brightline-itr.example"
+    },
+    {
+      "brand": "Apple",
+      "sku": [
+        "MacBook Air M1",
+        null
+      ],
+      "condition": "Refurbished",
+      "quantity_available": 40,
+      "quantity_unit": "units",
+      "unit_price": 395,
+      "currency": "GBP",
+      "price_basis": "per unit",
+      "ship_from": [
+        "Ex works Manchester",
+        "EXW Manchester"
+      ],
+      "valid_until": null,
+      "notes": "12-month warranty; lead time 3 working days",
+      "supplier_name": [
+        "Brightline IT Remarketing Ltd",
+        "Brightline IT Remarketing"
+      ],
+      "category": "Computers",
+      "source_attachment": null,
+      "product_name": "Apple MacBook Air M1 8GB/256GB",
+      "supplier_email": "sam@brightline-itr.example"
+    }
+  ]
+}

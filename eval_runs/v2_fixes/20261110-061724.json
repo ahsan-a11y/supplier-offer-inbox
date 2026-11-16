@@ -1,0 +1,1280 @@
+{
+  "summary": {
+    "emails": 20,
+    "failures": [],
+    "classifier": {
+      "accuracy": 1.0,
+      "tp": 14,
+      "tn": 6,
+      "fp": 0,
+      "fn": 0
+    },
+    "items": {
+      "expected": 100,
+      "predicted": 100,
+      "matched": 100,
+      "recall": 1.0,
+      "precision": 1.0
+    },
+    "field_accuracy_on_matched": 1.0,
+    "field_accuracy_end_to_end": 1.0,
+    "per_field": {
+      "brand": 1.0,
+      "category": 1.0,
+      "condition": 1.0,
+      "currency": 1.0,
+      "price_basis": 1.0,
+      "product_name": 1.0,
+      "quantity_available": 1.0,
+      "quantity_unit": 1.0,
+      "ship_from": 1.0,
+      "sku": 1.0,
+      "source_attachment": 1.0,
+      "supplier_email": 1.0,
+      "supplier_name": 1.0,
+      "unit_price": 1.0,
+      "valid_until": 1.0
+    },
+    "notes_key_facts": 1.0,
+    "cost_usd_total": 0.2611,
+    "cost_usd_per_email": 0.0131,
+    "cost_usd_per_offer_email": 0.0186,
+    "avg_seconds_per_email": 6.5
+  },
+  "emails": [
+    {
+      "id": "01_northwind_pdf",
+      "kind": "digital PDF price list",
+      "expected_offer": true,
+      "predicted_offer": true,
+      "classify_reason": "The supplier Northwind Supply Co. is proposing goods for us to buy, with a November 2026 price list including unit prices, stock quantities, and MOQs for office furniture.",
+      "n_expected": 8,
+      "n_predicted": 8,
+      "n_matched": 8,
+      "field_hits": {
+        "supplier_name": [
+          8,
+          8
+        ],
+        "supplier_email": [
+          8,
+          8
+        ],
+        "product_name": [
+          8,
+          8
+        ],
+        "brand": [
+          8,
+          8
+        ],
+        "sku": [
+          8,
+          8
+        ],
+        "category": [
+          8,
+          8
+        ],
+        "condition": [
+          8,
+          8
+        ],
+        "quantity_available": [
+          8,
+          8
+        ],
+        "quantity_unit": [
+          8,
+          8
+        ],
+        "unit_price": [
+          8,
+          8
+        ],
+        "currency": [
+          8,
+          8
+        ],
+        "price_basis": [
+          8,
+          8
+        ],
+        "ship_from": [
+          8,
+          8
+        ],
+        "valid_until": [
+          8,
+          8
+        ],
+        "source_attachment": [
+          8,
+          8
+        ]
+      },
+      "notes_hits": [
+        7,
+        7
+      ],
+      "errors": [],
+      "cost_usd": 0.0221653,
+      "seconds": 9.5,
+      "failure": null
+    },
+    {
+      "id": "02_harbor_photo",
+      "kind": "phone photo of a printed price sheet",
+      "expected_offer": true,
+      "predicted_offer": true,
+      "classify_reason": "A supplier (Harbor Electronics) is sending a photo of a stock sheet and asking which items to hold, which plausibly is an availability offer, though the image is not readable as text.",
+      "n_expected": 6,
+      "n_predicted": 6,
+      "n_matched": 6,
+      "field_hits": {
+        "supplier_name": [
+          6,
+          6
+        ],
+        "supplier_email": [
+          6,
+          6
+        ],
+        "product_name": [
+          6,
+          6
+        ],
+        "brand": [
+          6,
+          6
+        ],
+        "sku": [
+          6,
+          6
+        ],
+        "category": [
+          6,
+          6
+        ],
+        "condition": [
+          6,
+          6
+        ],
+        "quantity_available": [
+          6,
+          6
+        ],
+        "quantity_unit": [
+          6,
+          6
+        ],
+        "unit_price": [
+          6,
+          6
+        ],
+        "currency": [
+          6,
+          6
+        ],
+        "price_basis": [
+          6,
+          6
+        ],
+        "ship_from": [
+          6,
+          6
+        ],
+        "valid_until": [
+          6,
+          6
+        ],
+        "source_attachment": [
+          6,
+          6
+        ]
+      },
+      "notes_hits": [
+        0,
+        0
+      ],
+      "errors": [],
+      "cost_usd": 0.018686,
+      "seconds": 7.6,
+      "failure": null
+    },
+    {
+      "id": "03_pacific_xlsx",
+      "kind": "spreadsheet attachment",
+      "expected_offer": true,
+      "predicted_offer": true,
+      "classify_reason": "Pacific Beverage is a supplier proposing its weekly stock offer with product list, case prices, and available quantities in the attached spreadsheet.",
+      "n_expected": 10,
+      "n_predicted": 10,
+      "n_matched": 10,
+      "field_hits": {
+        "supplier_name": [
+          10,
+          10
+        ],
+        "supplier_email": [
+          10,
+          10
+        ],
+        "product_name": [
+          10,
+          10
+        ],
+        "brand": [
+          10,
+          10
+        ],
+        "sku": [
+          10,
+          10
+        ],
+        "category": [
+          10,
+          10
+        ],
+        "condition": [
+          10,
+          10
+        ],
+        "quantity_available": [
+          10,
+          10
+        ],
+        "quantity_unit": [
+          10,
+          10
+        ],
+        "unit_price": [
+          10,
+          10
+        ],
+        "currency": [
+          10,
+          10
+        ],
+        "price_basis": [
+          10,
+          10
+        ],
+        "ship_from": [
+          10,
+          10
+        ],
+        "valid_until": [
+          10,
+          10
+        ],
+        "source_attachment": [
+          10,
+          10
+        ]
+      },
+      "notes_hits": [
+        0,
+        0
+      ],
+      "errors": [],
+      "cost_usd": 0.0230789,
+      "seconds": 10.7,
+      "failure": null
+    },
+    {
+      "id": "04_greenleaf_body",
+      "kind": "offer written in the email body",
+      "expected_offer": true,
+      "predicted_offer": true,
+      "classify_reason": "Supplier Greenleaf Produce is proposing specific produce for us to buy with quantities, per-kg prices, and availability through Friday, which is a clear supplier offer.",
+      "n_expected": 3,
+      "n_predicted": 3,
+      "n_matched": 3,
+      "field_hits": {
+        "supplier_name": [
+          3,
+          3
+        ],
+        "supplier_email": [
+          3,
+          3
+        ],
+        "product_name": [
+          3,
+          3
+        ],
+        "brand": [
+          3,
+          3
+        ],
+        "sku": [
+          3,
+          3
+        ],
+        "category": [
+          3,
+          3
+        ],
+        "condition": [
+          3,
+          3
+        ],
+        "quantity_available": [
+          3,
+          3
+        ],
+        "quantity_unit": [
+          3,
+          3
+        ],
+        "unit_price": [
+          3,
+          3
+        ],
+        "currency": [
+          3,
+          3
+        ],
+        "price_basis": [
+          3,
+          3
+        ],
+        "ship_from": [
+          3,
+          3
+        ],
+        "valid_until": [
+          3,
+          3
+        ],
+        "source_attachment": [
+          3,
+          3
+        ]
+      },
+      "notes_hits": [
+        3,
+        3
+      ],
+      "errors": [],
+      "cost_usd": 0.009582499999999999,
+      "seconds": 6.8,
+      "failure": null
+    },
+    {
+      "id": "05_atlas_many_items",
+      "kind": "one email with many items (36 rows, PDF)",
+      "expected_offer": true,
+      "predicted_offer": true,
+      "classify_reason": "Supplier Atlas Industrial Tools is proactively offering its Q4 availability list with SKUs, quantities, and unit prices for goods we would buy, delivered as a PDF attachment with readable text.",
+      "n_expected": 36,
+      "n_predicted": 36,
+      "n_matched": 36,
+      "field_hits": {
+        "supplier_name": [
+          36,
+          36
+        ],
+        "supplier_email": [
+          36,
+          36
+        ],
+        "product_name": [
+          36,
+          36
+        ],
+        "brand": [
+          36,
+          36
+        ],
+        "sku": [
+          36,
+          36
+        ],
+        "category": [
+          36,
+          36
+        ],
+        "condition": [
+          36,
+          36
+        ],
+        "quantity_available": [
+          36,
+          36
+        ],
+        "quantity_unit": [
+          36,
+          36
+        ],
+        "unit_price": [
+          36,
+          36
+        ],
+        "currency": [
+          36,
+          36
+        ],
+        "price_basis": [
+          36,
+          36
+        ],
+        "ship_from": [
+          36,
+          36
+        ],
+        "valid_until": [
+          36,
+          36
+        ],
+        "source_attachment": [
+          36,
+          36
+        ]
+      },
+      "notes_hits": [
+        0,
+        0
+      ],
+      "errors": [],
+      "cost_usd": 0.0774464,
+      "seconds": 29.8,
+      "failure": null
+    },
+    {
+      "id": "06_summit_html_table",
+      "kind": "HTML table in the email body",
+      "expected_offer": true,
+      "predicted_offer": true,
+      "classify_reason": "Supplier Summit Apparel is proposing overstock apparel for us to buy with quantities, FOB prices, and a validity date, which is a clear closeout-style supplier offer.",
+      "n_expected": 5,
+      "n_predicted": 5,
+      "n_matched": 5,
+      "field_hits": {
+        "supplier_name": [
+          5,
+          5
+        ],
+        "supplier_email": [
+          5,
+          5
+        ],
+        "product_name": [
+          5,
+          5
+        ],
+        "brand": [
+          5,
+          5
+        ],
+        "sku": [
+          5,
+          5
+        ],
+        "category": [
+          5,
+          5
+        ],
+        "condition": [
+          5,
+          5
+        ],
+        "quantity_available": [
+          5,
+          5
+        ],
+        "quantity_unit": [
+          5,
+          5
+        ],
+        "unit_price": [
+          5,
+          5
+        ],
+        "currency": [
+          5,
+          5
+        ],
+        "price_basis": [
+          5,
+          5
+        ],
+        "ship_from": [
+          5,
+          5
+        ],
+        "valid_until": [
+          5,
+          5
+        ],
+        "source_attachment": [
+          5,
+          5
+        ]
+      },
+      "notes_hits": [
+        5,
+        5
+      ],
+      "errors": [],
+      "cost_usd": 0.0135107,
+      "seconds": 7.3,
+      "failure": null
+    },
+    {
+      "id": "07_brightline_refurb_gbp",
+      "kind": "offer in body, refurbished goods, GBP",
+      "expected_offer": true,
+      "predicted_offer": true,
+      "classify_reason": "A supplier (Brightline) proactively lists refurbished laptops for sale with unit prices, stock quantities and lead time, which is a clear stock offer for us to buy.",
+      "n_expected": 4,
+      "n_predicted": 4,
+      "n_matched": 4,
+      "field_hits": {
+        "supplier_name": [
+          4,
+          4
+        ],
+        "supplier_email": [
+          4,
+          4
+        ],
+        "product_name": [
+          4,
+          4
+        ],
+        "brand": [
+          4,
+          4
+        ],
+        "sku": [
+          4,
+          4
+        ],
+        "category": [
+          4,
+          4
+        ],
+        "condition": [
+          4,
+          4
+        ],
+        "quantity_available": [
+          4,
+          4
+        ],
+        "quantity_unit": [
+          4,
+          4
+        ],
+        "unit_price": [
+          4,
+          4
+        ],
+        "currency": [
+          4,
+          4
+        ],
+        "price_basis": [
+          4,
+          4
+        ],
+        "ship_from": [
+          4,
+          4
+        ],
+        "valid_until": [
+          4,
+          4
+        ],
+        "source_attachment": [
+          4,
+          4
+        ]
+      },
+      "notes_hits": [
+        4,
+        4
+      ],
+      "errors": [],
+      "cost_usd": 0.012003300000000001,
+      "seconds": 7.5,
+      "failure": null
+    },
+    {
+      "id": "08_keystone_fwd_closeout",
+      "kind": "forwarded email, single closeout item priced per pallet",
+      "expected_offer": true,
+      "predicted_offer": true,
+      "classify_reason": "Forwarded supplier email from Keystone Paper offering a closeout of 22 pallets of copy paper with a per-pallet price and deadline, which is a genuine purchase offer despite being forwarded internally.",
+      "n_expected": 1,
+      "n_predicted": 1,
+      "n_matched": 1,
+      "field_hits": {
+        "supplier_name": [
+          1,
+          1
+        ],
+        "supplier_email": [
+          1,
+          1
+        ],
+        "product_name": [
+          1,
+          1
+        ],
+        "brand": [
+          1,
+          1
+        ],
+        "sku": [
+          1,
+          1
+        ],
+        "category": [
+          1,
+          1
+        ],
+        "condition": [
+          1,
+          1
+        ],
+        "quantity_available": [
+          1,
+          1
+        ],
+        "quantity_unit": [
+          1,
+          1
+        ],
+        "unit_price": [
+          1,
+          1
+        ],
+        "currency": [
+          1,
+          1
+        ],
+        "price_basis": [
+          1,
+          1
+        ],
+        "ship_from": [
+          1,
+          1
+        ],
+        "valid_until": [
+          1,
+          1
+        ],
+        "source_attachment": [
+          1,
+          1
+        ]
+      },
+      "notes_hits": [
+        1,
+        1
+      ],
+      "errors": [],
+      "cost_usd": 0.0066309,
+      "seconds": 4.4,
+      "failure": null
+    },
+    {
+      "id": "09_lumen_body_plus_csv",
+      "kind": "items split between body and CSV attachment",
+      "expected_offer": true,
+      "predicted_offer": true,
+      "classify_reason": "Supplier Lumen Home Goods proposes goods for us to buy with a weekly special at $7.25/set, stock quantities, and a price list in the CSV attachment.",
+      "n_expected": 6,
+      "n_predicted": 6,
+      "n_matched": 6,
+      "field_hits": {
+        "supplier_name": [
+          6,
+          6
+        ],
+        "supplier_email": [
+          6,
+          6
+        ],
+        "product_name": [
+          6,
+          6
+        ],
+        "brand": [
+          6,
+          6
+        ],
+        "sku": [
+          6,
+          6
+        ],
+        "category": [
+          6,
+          6
+        ],
+        "condition": [
+          6,
+          6
+        ],
+        "quantity_available": [
+          6,
+          6
+        ],
+        "quantity_unit": [
+          6,
+          6
+        ],
+        "unit_price": [
+          6,
+          6
+        ],
+        "currency": [
+          6,
+          6
+        ],
+        "price_basis": [
+          6,
+          6
+        ],
+        "ship_from": [
+          6,
+          6
+        ],
+        "valid_until": [
+          6,
+          6
+        ],
+        "source_attachment": [
+          6,
+          6
+        ]
+      },
+      "notes_hits": [
+        0,
+        0
+      ],
+      "errors": [],
+      "cost_usd": 0.0140978,
+      "seconds": 6.5,
+      "failure": null
+    },
+    {
+      "id": "10_crescent_scan",
+      "kind": "scanned price list (grayscale, skewed, noisy)",
+      "expected_offer": true,
+      "predicted_offer": true,
+      "classify_reason": "Supplier sends a scanned December price list as an unreadable image attachment, which likely contains a supplier offer with prices, so it should be extracted.",
+      "n_expected": 7,
+      "n_predicted": 7,
+      "n_matched": 7,
+      "field_hits": {
+        "supplier_name": [
+          7,
+          7
+        ],
+        "supplier_email": [
+          7,
+          7
+        ],
+        "product_name": [
+          7,
+          7
+        ],
+        "brand": [
+          7,
+          7
+        ],
+        "sku": [
+          7,
+          7
+        ],
+        "category": [
+          7,
+          7
+        ],
+        "condition": [
+          7,
+          7
+        ],
+        "quantity_available": [
+          7,
+          7
+        ],
+        "quantity_unit": [
+          7,
+          7
+        ],
+        "unit_price": [
+          7,
+          7
+        ],
+        "currency": [
+          7,
+          7
+        ],
+        "price_basis": [
+          7,
+          7
+        ],
+        "ship_from": [
+          7,
+          7
+        ],
+        "valid_until": [
+          7,
+          7
+        ],
+        "source_attachment": [
+          7,
+          7
+        ]
+      },
+      "notes_hits": [
+        7,
+        7
+      ],
+      "errors": [],
+      "cost_usd": 0.0174853,
+      "seconds": 8.4,
+      "failure": null
+    },
+    {
+      "id": "11_vandijk_cases_soldout",
+      "kind": "body offer in EUR per case, with a sold-out line to skip",
+      "expected_offer": true,
+      "predicted_offer": true,
+      "classify_reason": "Supplier Van Dijk Foods proposes goods from stock with case prices, quantities and a validity date, which is a clear supplier offer to us as buyer.",
+      "n_expected": 3,
+      "n_predicted": 3,
+      "n_matched": 3,
+      "field_hits": {
+        "supplier_name": [
+          3,
+          3
+        ],
+        "supplier_email": [
+          3,
+          3
+        ],
+        "product_name": [
+          3,
+          3
+        ],
+        "brand": [
+          3,
+          3
+        ],
+        "sku": [
+          3,
+          3
+        ],
+        "category": [
+          3,
+          3
+        ],
+        "condition": [
+          3,
+          3
+        ],
+        "quantity_available": [
+          3,
+          3
+        ],
+        "quantity_unit": [
+          3,
+          3
+        ],
+        "unit_price": [
+          3,
+          3
+        ],
+        "currency": [
+          3,
+          3
+        ],
+        "price_basis": [
+          3,
+          3
+        ],
+        "ship_from": [
+          3,
+          3
+        ],
+        "valid_until": [
+          3,
+          3
+        ],
+        "source_attachment": [
+          3,
+          3
+        ]
+      },
+      "notes_hits": [
+        3,
+        3
+      ],
+      "errors": [],
+      "cost_usd": 0.0099358,
+      "seconds": 4.9,
+      "failure": null
+    },
+    {
+      "id": "12_andina_spanish",
+      "kind": "Spanish-language body offer, European number format",
+      "expected_offer": true,
+      "predicted_offer": true,
+      "classify_reason": "Supplier Distribuidora Andina proposes specific grocery products with quantities, unit prices, and a validity period, which is a clear supplier offer for us to buy.",
+      "n_expected": 3,
+      "n_predicted": 3,
+      "n_matched": 3,
+      "field_hits": {
+        "supplier_name": [
+          3,
+          3
+        ],
+        "supplier_email": [
+          3,
+          3
+        ],
+        "product_name": [
+          3,
+          3
+        ],
+        "brand": [
+          3,
+          3
+        ],
+        "sku": [
+          3,
+          3
+        ],
+        "category": [
+          3,
+          3
+        ],
+        "condition": [
+          3,
+          3
+        ],
+        "quantity_available": [
+          3,
+          3
+        ],
+        "quantity_unit": [
+          3,
+          3
+        ],
+        "unit_price": [
+          3,
+          3
+        ],
+        "currency": [
+          3,
+          3
+        ],
+        "price_basis": [
+          3,
+          3
+        ],
+        "ship_from": [
+          3,
+          3
+        ],
+        "valid_until": [
+          3,
+          3
+        ],
+        "source_attachment": [
+          3,
+          3
+        ]
+      },
+      "notes_hits": [
+        0,
+        0
+      ],
+      "errors": [],
+      "cost_usd": 0.009374400000000001,
+      "seconds": 4.6,
+      "failure": null
+    },
+    {
+      "id": "13_order_confirmation",
+      "kind": "NOT offer: order confirmation with an item/price table",
+      "expected_offer": false,
+      "predicted_offer": false,
+      "classify_reason": "This is an order confirmation for a purchase already made (NW-55821), with prices and a ship date, which the triage rules explicitly exclude from supplier offers.",
+      "n_expected": 0,
+      "n_predicted": 0,
+      "n_matched": 0,
+      "field_hits": {},
+      "notes_hits": [
+        0,
+        0
+      ],
+      "errors": [],
+      "cost_usd": 0.000119,
+      "seconds": 2.3,
+      "failure": null
+    },
+    {
+      "id": "14_customer_rfq",
+      "kind": "NOT offer: a request for quote sent to us",
+      "expected_offer": false,
+      "predicted_offer": false,
+      "classify_reason": "This is a request for quote sent to us asking for our prices, so we would be the seller, not a supplier offering goods to buy.",
+      "n_expected": 0,
+      "n_predicted": 0,
+      "n_matched": 0,
+      "field_hits": {},
+      "notes_hits": [
+        0,
+        0
+      ],
+      "errors": [],
+      "cost_usd": 0.0001099,
+      "seconds": 1.4,
+      "failure": null
+    },
+    {
+      "id": "15_newsletter",
+      "kind": "NOT offer: industry newsletter mentioning prices",
+      "expected_offer": false,
+      "predicted_offer": false,
+      "classify_reason": "This is a market-news newsletter with rate and price commentary and a webinar invite, not a supplier proposing goods for us to buy.",
+      "n_expected": 0,
+      "n_predicted": 0,
+      "n_matched": 0,
+      "field_hits": {},
+      "notes_hits": [
+        0,
+        0
+      ],
+      "errors": [],
+      "cost_usd": 0.00011640000000000001,
+      "seconds": 1.7,
+      "failure": null
+    },
+    {
+      "id": "16_invoice_pdf",
+      "kind": "NOT offer: invoice / payment reminder with a PDF",
+      "expected_offer": false,
+      "predicted_offer": false,
+      "classify_reason": "This is a payment reminder with an invoice for an existing purchase (we are the customer being billed), not a supplier proposing goods for us to buy.",
+      "n_expected": 0,
+      "n_predicted": 0,
+      "n_matched": 0,
+      "field_hits": {},
+      "notes_hits": [
+        0,
+        0
+      ],
+      "errors": [],
+      "cost_usd": 0.00012790000000000002,
+      "seconds": 1.7,
+      "failure": null
+    },
+    {
+      "id": "17_shipping_notice",
+      "kind": "NOT offer: shipping notification",
+      "expected_offer": false,
+      "predicted_offer": false,
+      "classify_reason": "This is a shipping notice for an existing order (HE-90233), concerning a purchase already made rather than a new supplier offer.",
+      "n_expected": 0,
+      "n_predicted": 0,
+      "n_matched": 0,
+      "field_hits": {},
+      "notes_hits": [
+        0,
+        0
+      ],
+      "errors": [],
+      "cost_usd": 0.00010740000000000001,
+      "seconds": 1.9,
+      "failure": null
+    },
+    {
+      "id": "18_chatter",
+      "kind": "NOT offer: general chatter from a supplier rep",
+      "expected_offer": false,
+      "predicted_offer": false,
+      "classify_reason": "This is a personal lunch invitation with no products, prices, stock, or supplier proposal.",
+      "n_expected": 0,
+      "n_predicted": 0,
+      "n_matched": 0,
+      "field_hits": {},
+      "notes_hits": [
+        0,
+        0
+      ],
+      "errors": [],
+      "cost_usd": 9.73e-05,
+      "seconds": 1.5,
+      "failure": null
+    },
+    {
+      "id": "19_orbit_pdf_only",
+      "kind": "offer only inside a PDF, body just says 'see attached'",
+      "expected_offer": true,
+      "predicted_offer": true,
+      "classify_reason": "The attachment is a supplier clearance offer listing office products with stock availability, GBP unit prices, and a validity period, which is a supplier proposing goods for us to buy.",
+      "n_expected": 5,
+      "n_predicted": 5,
+      "n_matched": 5,
+      "field_hits": {
+        "supplier_name": [
+          5,
+          5
+        ],
+        "supplier_email": [
+          5,
+          5
+        ],
+        "product_name": [
+          5,
+          5
+        ],
+        "brand": [
+          5,
+          5
+        ],
+        "sku": [
+          5,
+          5
+        ],
+        "category": [
+          5,
+          5
+        ],
+        "condition": [
+          5,
+          5
+        ],
+        "quantity_available": [
+          5,
+          5
+        ],
+        "quantity_unit": [
+          5,
+          5
+        ],
+        "unit_price": [
+          5,
+          5
+        ],
+        "currency": [
+          5,
+          5
+        ],
+        "price_basis": [
+          5,
+          5
+        ],
+        "ship_from": [
+          5,
+          5
+        ],
+        "valid_until": [
+          5,
+          5
+        ],
+        "source_attachment": [
+          5,
+          5
+        ]
+      },
+      "notes_hits": [
+        0,
+        0
+      ],
+      "errors": [],
+      "cost_usd": 0.0162402,
+      "seconds": 6.4,
+      "failure": null
+    },
+    {
+      "id": "20_medline_tiers_blanks",
+      "kind": "tiered pricing, a call-for-price item, an item with no quantity",
+      "expected_offer": true,
+      "predicted_offer": true,
+      "classify_reason": "A supplier proposes PPE products for us to buy with stated prices, stock quantities and availability, which is a clear supplier offer.",
+      "n_expected": 3,
+      "n_predicted": 3,
+      "n_matched": 3,
+      "field_hits": {
+        "supplier_name": [
+          3,
+          3
+        ],
+        "supplier_email": [
+          3,
+          3
+        ],
+        "product_name": [
+          3,
+          3
+        ],
+        "brand": [
+          3,
+          3
+        ],
+        "sku": [
+          3,
+          3
+        ],
+        "category": [
+          3,
+          3
+        ],
+        "condition": [
+          3,
+          3
+        ],
+        "quantity_available": [
+          3,
+          3
+        ],
+        "quantity_unit": [
+          3,
+          3
+        ],
+        "unit_price": [
+          3,
+          3
+        ],
+        "currency": [
+          3,
+          3
+        ],
+        "price_basis": [
+          3,
+          3
+        ],
+        "ship_from": [
+          3,
+          3
+        ],
+        "valid_until": [
+          3,
+          3
+        ],
+        "source_attachment": [
+          3,
+          3
+        ]
+      },
+      "notes_hits": [
+        2,
+        2
+      ],
+      "errors": [],
+      "cost_usd": 0.0101372,
+      "seconds": 5.5,
+      "failure": null
+    }
+  ]
+}

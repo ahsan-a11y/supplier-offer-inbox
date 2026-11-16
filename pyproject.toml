@@ -1,0 +1,25 @@
+[project]
+name = "offer-inbox"
+version = "0.1.0"
+description = "Reads supplier offer emails and extracts offered items into a structured store"
+readme = "README.md"
+authors = [
+    { name = "ahsan-salman-yousaf", email = "ahsansalman1234@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "anthropic>=2.6.0",
+    "openpyxl>=3.1.5",
+    "pillow>=13.0.0",
+    "pypdf>=7.0.1",
+    "python-dotenv>=1.2.4",
+    "reportlab>=5.1.0",
+    "rich>=15.0.0",
+]
+
+[project.scripts]
+offer-inbox = "offer_inbox.cli:main"
+
+[build-system]
+requires = ["uv_build>=0.11.7,<0.12.0"]
+build-backend = "uv_build"

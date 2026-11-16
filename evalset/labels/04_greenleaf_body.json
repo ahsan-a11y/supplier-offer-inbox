@@ -1,0 +1,71 @@
+{
+  "id": "04_greenleaf_body",
+  "kind": "offer written in the email body",
+  "message_id": "<eval-04_greenleaf_body@offer-inbox.test>",
+  "is_offer": true,
+  "items": [
+    {
+      "brand": null,
+      "sku": null,
+      "condition": null,
+      "quantity_available": 2400,
+      "quantity_unit": "kg",
+      "unit_price": 2.15,
+      "currency": "USD",
+      "price_basis": "per kg",
+      "ship_from": [
+        "FOB Salinas, CA",
+        "FOB Salinas CA"
+      ],
+      "valid_until": "2026-11-13",
+      "notes": "min 500 kg per item",
+      "supplier_name": "Greenleaf Produce Co.",
+      "category": "Fresh Produce",
+      "source_attachment": null,
+      "product_name": "Romaine hearts, 3-pack",
+      "supplier_email": "maria@greenleafproduce.example"
+    },
+    {
+      "brand": null,
+      "sku": null,
+      "condition": null,
+      "quantity_available": 900,
+      "quantity_unit": "kg",
+      "unit_price": 4.8,
+      "currency": "USD",
+      "price_basis": "per kg",
+      "ship_from": [
+        "FOB Salinas, CA",
+        "FOB Salinas CA"
+      ],
+      "valid_until": "2026-11-13",
+      "notes": "min 500 kg per item",
+      "supplier_name": "Greenleaf Produce Co.",
+      "category": "Fresh Produce",
+      "source_attachment": null,
+      "product_name": "Baby spinach (bulk)",
+      "supplier_email": "maria@greenleafproduce.example"
+    },
+    {
+      "brand": null,
+      "sku": null,
+      "condition": null,
+      "quantity_available": 1500,
+      "quantity_unit": "kg",
+      "unit_price": 1.95,
+      "currency": "USD",
+      "price_basis": "per kg",
+      "ship_from": [
+        "FOB Salinas, CA",
+        "FOB Salinas CA"
+      ],
+      "valid_until": "2026-11-13",
+      "notes": "min 500 kg per item",
+      "supplier_name": "Greenleaf Produce Co.",
+      "category": "Fresh Produce",
+      "source_attachment": null,
+      "product_name": "Broccoli crowns",
+      "supplier_email": "maria@greenleafproduce.example"
+    }
+  ]
+}

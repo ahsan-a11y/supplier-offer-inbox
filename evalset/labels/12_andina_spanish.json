@@ -1,0 +1,71 @@
+{
+  "id": "12_andina_spanish",
+  "kind": "Spanish-language body offer, European number format",
+  "message_id": "<eval-12_andina_spanish@offer-inbox.test>",
+  "is_offer": true,
+  "items": [
+    {
+      "brand": "Montaña Alta",
+      "sku": null,
+      "condition": null,
+      "quantity_available": 2000,
+      "quantity_unit": "units",
+      "unit_price": 4.2,
+      "currency": "USD",
+      "price_basis": "per unit",
+      "ship_from": "FOB Miami",
+      "valid_until": "2026-11-30",
+      "notes": null,
+      "supplier_name": "Distribuidora Andina S.A.",
+      "category": "Food & Beverage",
+      "source_attachment": null,
+      "product_name": [
+        "Café molido premium 500g",
+        "Ground coffee premium 500g"
+      ],
+      "supplier_email": "ventas@distandina.example"
+    },
+    {
+      "brand": "Olivar del Sur",
+      "sku": null,
+      "condition": null,
+      "quantity_available": 1500,
+      "quantity_unit": "units",
+      "unit_price": 6.85,
+      "currency": "USD",
+      "price_basis": "per unit",
+      "ship_from": "FOB Miami",
+      "valid_until": "2026-11-30",
+      "notes": null,
+      "supplier_name": "Distribuidora Andina S.A.",
+      "category": "Food & Beverage",
+      "source_attachment": null,
+      "product_name": [
+        "Aceite de oliva extra virgen 1L",
+        "Extra virgin olive oil 1L"
+      ],
+      "supplier_email": "ventas@distandina.example"
+    },
+    {
+      "brand": "La Cosecha",
+      "sku": null,
+      "condition": null,
+      "quantity_available": 900,
+      "quantity_unit": "bags",
+      "unit_price": 5.1,
+      "currency": "USD",
+      "price_basis": "per bag",
+      "ship_from": "FOB Miami",
+      "valid_until": "2026-11-30",
+      "notes": null,
+      "supplier_name": "Distribuidora Andina S.A.",
+      "category": "Food & Beverage",
+      "source_attachment": null,
+      "product_name": [
+        "Arroz largo fino 5kg",
+        "Long grain rice 5kg"
+      ],
+      "supplier_email": "ventas@distandina.example"
+    }
+  ]
+}

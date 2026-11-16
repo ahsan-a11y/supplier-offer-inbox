@@ -1,0 +1,7 @@
+{
+  "id": "16_invoice_pdf",
+  "kind": "NOT offer: invoice / payment reminder with a PDF",
+  "message_id": "<eval-16_invoice_pdf@offer-inbox.test>",
+  "is_offer": false,
+  "items": []
+}

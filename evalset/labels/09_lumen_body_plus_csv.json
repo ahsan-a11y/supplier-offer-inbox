@@ -1,0 +1,154 @@
+{
+  "id": "09_lumen_body_plus_csv",
+  "kind": "items split between body and CSV attachment",
+  "message_id": "<eval-09_lumen_body_plus_csv@offer-inbox.test>",
+  "is_offer": true,
+  "items": [
+    {
+      "brand": null,
+      "sku": "HG-3301",
+      "condition": null,
+      "quantity_available": 1000,
+      "quantity_unit": "sets",
+      "unit_price": 7.25,
+      "currency": "USD",
+      "price_basis": "per set",
+      "ship_from": [
+        "FOB Newark, NJ",
+        "FOB Newark NJ"
+      ],
+      "valid_until": null,
+      "notes": null,
+      "supplier_name": "Lumen Home Goods",
+      "category": "Household",
+      "product_name": "Bamboo cutting board set (3pc)",
+      "source_attachment": null,
+      "supplier_email": "trade@lumenhome.example"
+    },
+    {
+      "brand": "Lumen",
+      "sku": "HG-1101",
+      "condition": null,
+      "quantity_available": 5000,
+      "quantity_unit": "units",
+      "unit_price": 1.85,
+      "currency": "USD",
+      "price_basis": [
+        "per unit",
+        "per unit",
+        "per unit"
+      ],
+      "ship_from": [
+        "FOB Newark, NJ",
+        "FOB Newark NJ"
+      ],
+      "valid_until": null,
+      "notes": null,
+      "supplier_name": "Lumen Home Goods",
+      "category": "Household",
+      "product_name": "Ceramic dinner plate 10in",
+      "source_attachment": "lumen_availability.csv",
+      "supplier_email": "trade@lumenhome.example"
+    },
+    {
+      "brand": "Lumen",
+      "sku": "HG-1102",
+      "condition": null,
+      "quantity_available": 3600,
+      "quantity_unit": "units",
+      "unit_price": 1.4,
+      "currency": "USD",
+      "price_basis": [
+        "per unit",
+        "per unit",
+        "per unit"
+      ],
+      "ship_from": [
+        "FOB Newark, NJ",
+        "FOB Newark NJ"
+      ],
+      "valid_until": null,
+      "notes": null,
+      "supplier_name": "Lumen Home Goods",
+      "category": "Household",
+      "product_name": "Stoneware mug 12oz",
+      "source_attachment": "lumen_availability.csv",
+      "supplier_email": "trade@lumenhome.example"
+    },
+    {
+      "brand": "CleanPro",
+      "sku": "HG-2201",
+      "condition": null,
+      "quantity_available": 1200,
+      "quantity_unit": "packs",
+      "unit_price": 4.95,
+      "currency": "USD",
+      "price_basis": [
+        "per unit",
+        "per pack",
+        "per unit"
+      ],
+      "ship_from": [
+        "FOB Newark, NJ",
+        "FOB Newark NJ"
+      ],
+      "valid_until": null,
+      "notes": null,
+      "supplier_name": "Lumen Home Goods",
+      "category": "Household",
+      "product_name": "Microfiber towel 6-pack",
+      "source_attachment": "lumen_availability.csv",
+      "supplier_email": "trade@lumenhome.example"
+    },
+    {
+      "brand": "CleanPro",
+      "sku": "HG-2202",
+      "condition": null,
+      "quantity_available": 2000,
+      "quantity_unit": "units",
+      "unit_price": 3.6,
+      "currency": "USD",
+      "price_basis": [
+        "per unit",
+        "per unit",
+        "per unit"
+      ],
+      "ship_from": [
+        "FOB Newark, NJ",
+        "FOB Newark NJ"
+      ],
+      "valid_until": null,
+      "notes": null,
+      "supplier_name": "Lumen Home Goods",
+      "category": "Household",
+      "product_name": "Cotton bath towel",
+      "source_attachment": "lumen_availability.csv",
+      "supplier_email": "trade@lumenhome.example"
+    },
+    {
+      "brand": "FreshKeep",
+      "sku": "HG-4401",
+      "condition": null,
+      "quantity_available": 800,
+      "quantity_unit": "sets",
+      "unit_price": 8.75,
+      "currency": "USD",
+      "price_basis": [
+        "per unit",
+        "per set",
+        "per set"
+      ],
+      "ship_from": [
+        "FOB Newark, NJ",
+        "FOB Newark NJ"
+      ],
+      "valid_until": null,
+      "notes": null,
+      "supplier_name": "Lumen Home Goods",
+      "category": "Household",
+      "product_name": "Glass storage container set 10pc",
+      "source_attachment": "lumen_availability.csv",
+      "supplier_email": "trade@lumenhome.example"
+    }
+  ]
+}

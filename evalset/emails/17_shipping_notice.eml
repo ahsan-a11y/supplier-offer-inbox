@@ -1,0 +1,17 @@
+From: Harbor Electronics Logistics <shipping@harborelectronics.example>
+To: purchasing@inbox.example
+Subject: Your order HE-90233 has shipped
+Date: Sat, 07 Nov 2026 08:45:00 -0800
+Message-ID: <eval-17_shipping_notice@offer-inbox.test>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Your order HE-90233 has shipped.
+
+Carrier: XPO Freight
+PRO number: 418-2290-7731
+Pallets: 3
+Estimated delivery: Nov 12, 2026
+
+Track your shipment in the customer portal.

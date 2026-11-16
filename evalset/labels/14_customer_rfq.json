@@ -1,0 +1,7 @@
+{
+  "id": "14_customer_rfq",
+  "kind": "NOT offer: a request for quote sent to us",
+  "message_id": "<eval-14_customer_rfq@offer-inbox.test>",
+  "is_offer": false,
+  "items": []
+}

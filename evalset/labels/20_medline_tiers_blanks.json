@@ -1,0 +1,80 @@
+{
+  "id": "20_medline_tiers_blanks",
+  "kind": "tiered pricing, a call-for-price item, an item with no quantity",
+  "message_id": "<eval-20_medline_tiers_blanks@offer-inbox.test>",
+  "is_offer": true,
+  "items": [
+    {
+      "brand": "SafeHand",
+      "sku": "SH-NG-M",
+      "condition": null,
+      "quantity_available": 400,
+      "quantity_unit": "cases",
+      "unit_price": [
+        42.0,
+        38.0
+      ],
+      "currency": "USD",
+      "price_basis": "per case",
+      "ship_from": [
+        "Atlanta, GA",
+        "Atlanta, GA warehouse"
+      ],
+      "valid_until": null,
+      "notes": "50+ cases $38.00/case; 10 boxes per case",
+      "supplier_name": "SafeHand Medical Supply",
+      "category": "Health & Beauty",
+      "source_attachment": null,
+      "product_name": "Nitrile exam gloves, size M, box of 100",
+      "supplier_email": "rita@safehand-medical.example"
+    },
+    {
+      "brand": "SafeHand",
+      "sku": "SH-FM3",
+      "condition": null,
+      "quantity_available": 1000,
+      "quantity_unit": "boxes",
+      "unit_price": null,
+      "currency": [
+        "USD",
+        null
+      ],
+      "price_basis": null,
+      "ship_from": [
+        "Atlanta, GA",
+        "Atlanta, GA warehouse"
+      ],
+      "valid_until": null,
+      "notes": "call for price",
+      "supplier_name": "SafeHand Medical Supply",
+      "category": "Health & Beauty",
+      "source_attachment": null,
+      "product_name": "3-ply disposable face masks, box of 50",
+      "supplier_email": "rita@safehand-medical.example"
+    },
+    {
+      "brand": [
+        "SafeHand",
+        null
+      ],
+      "sku": "SH-HS500",
+      "condition": null,
+      "quantity_available": null,
+      "quantity_unit": null,
+      "unit_price": 2.35,
+      "currency": "USD",
+      "price_basis": "per unit",
+      "ship_from": [
+        "Atlanta, GA",
+        "Atlanta, GA warehouse"
+      ],
+      "valid_until": null,
+      "notes": null,
+      "supplier_name": "SafeHand Medical Supply",
+      "category": "Health & Beauty",
+      "source_attachment": null,
+      "product_name": "Hand sanitizer gel 500ml pump",
+      "supplier_email": "rita@safehand-medical.example"
+    }
+  ]
+}

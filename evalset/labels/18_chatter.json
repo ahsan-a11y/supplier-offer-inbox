@@ -1,0 +1,7 @@
+{
+  "id": "18_chatter",
+  "kind": "NOT offer: general chatter from a supplier rep",
+  "message_id": "<eval-18_chatter@offer-inbox.test>",
+  "is_offer": false,
+  "items": []
+}

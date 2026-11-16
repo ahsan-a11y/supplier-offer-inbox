@@ -1,0 +1,7 @@
+{
+  "id": "13_order_confirmation",
+  "kind": "NOT offer: order confirmation with an item/price table",
+  "message_id": "<eval-13_order_confirmation@offer-inbox.test>",
+  "is_offer": false,
+  "items": []
+}

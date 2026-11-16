@@ -1,0 +1,143 @@
+{
+  "id": "06_summit_html_table",
+  "kind": "HTML table in the email body",
+  "message_id": "<eval-06_summit_html_table@offer-inbox.test>",
+  "is_offer": true,
+  "items": [
+    {
+      "brand": null,
+      "sku": "SA-T100",
+      "condition": "New",
+      "quantity_available": 2400,
+      "quantity_unit": [
+        "units",
+        "pcs"
+      ],
+      "unit_price": 3.1,
+      "currency": "USD",
+      "price_basis": [
+        "per unit",
+        "per piece"
+      ],
+      "ship_from": [
+        "FOB Dallas, TX",
+        "FOB Dallas TX"
+      ],
+      "valid_until": "2026-11-25",
+      "notes": "Sizes S-XL",
+      "supplier_name": "Summit Apparel Group",
+      "category": "Apparel",
+      "source_attachment": null,
+      "product_name": "Men's crew neck tee, cotton",
+      "supplier_email": "deals@summitapparel.example"
+    },
+    {
+      "brand": null,
+      "sku": "SA-T200",
+      "condition": "New",
+      "quantity_available": 1800,
+      "quantity_unit": [
+        "units",
+        "pcs"
+      ],
+      "unit_price": 3.25,
+      "currency": "USD",
+      "price_basis": [
+        "per unit",
+        "per piece"
+      ],
+      "ship_from": [
+        "FOB Dallas, TX",
+        "FOB Dallas TX"
+      ],
+      "valid_until": "2026-11-25",
+      "notes": "Sizes XS-L",
+      "supplier_name": "Summit Apparel Group",
+      "category": "Apparel",
+      "source_attachment": null,
+      "product_name": "Women's v-neck tee",
+      "supplier_email": "deals@summitapparel.example"
+    },
+    {
+      "brand": null,
+      "sku": "SA-H300",
+      "condition": "New",
+      "quantity_available": 950,
+      "quantity_unit": [
+        "units",
+        "pcs"
+      ],
+      "unit_price": 11.75,
+      "currency": "USD",
+      "price_basis": [
+        "per unit",
+        "per piece"
+      ],
+      "ship_from": [
+        "FOB Dallas, TX",
+        "FOB Dallas TX"
+      ],
+      "valid_until": "2026-11-25",
+      "notes": "Sizes S-XXL",
+      "supplier_name": "Summit Apparel Group",
+      "category": "Apparel",
+      "source_attachment": null,
+      "product_name": "Pullover hoodie, fleece",
+      "supplier_email": "deals@summitapparel.example"
+    },
+    {
+      "brand": null,
+      "sku": "SA-J400",
+      "condition": "New",
+      "quantity_available": 300,
+      "quantity_unit": [
+        "units",
+        "pcs"
+      ],
+      "unit_price": 18.9,
+      "currency": "USD",
+      "price_basis": [
+        "per unit",
+        "per piece"
+      ],
+      "ship_from": [
+        "FOB Dallas, TX",
+        "FOB Dallas TX"
+      ],
+      "valid_until": "2026-11-25",
+      "notes": "Sizes M-XL",
+      "supplier_name": "Summit Apparel Group",
+      "category": "Apparel",
+      "source_attachment": null,
+      "product_name": "Denim jacket",
+      "supplier_email": "deals@summitapparel.example"
+    },
+    {
+      "brand": null,
+      "sku": "SA-P500",
+      "condition": "New",
+      "quantity_available": 1200,
+      "quantity_unit": [
+        "units",
+        "pcs"
+      ],
+      "unit_price": 7.4,
+      "currency": "USD",
+      "price_basis": [
+        "per unit",
+        "per piece"
+      ],
+      "ship_from": [
+        "FOB Dallas, TX",
+        "FOB Dallas TX"
+      ],
+      "valid_until": "2026-11-25",
+      "notes": "Sizes S-XL",
+      "supplier_name": "Summit Apparel Group",
+      "category": "Apparel",
+      "source_attachment": null,
+      "product_name": "Jogger pants",
+      "supplier_email": "deals@summitapparel.example"
+    }
+  ]
+}

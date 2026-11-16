@@ -1,0 +1,62 @@
+{
+  "id": "11_vandijk_cases_soldout",
+  "kind": "body offer in EUR per case, with a sold-out line to skip",
+  "message_id": "<eval-11_vandijk_cases_soldout@offer-inbox.test>",
+  "is_offer": true,
+  "items": [
+    {
+      "brand": "Hollandse Trots",
+      "sku": null,
+      "condition": null,
+      "quantity_available": 800,
+      "quantity_unit": "cases",
+      "unit_price": 38.4,
+      "currency": "EUR",
+      "price_basis": "per case of 12",
+      "ship_from": "EXW Rotterdam",
+      "valid_until": "2026-11-20",
+      "notes": "Payment 30 days",
+      "supplier_name": "Van Dijk Foods B.V.",
+      "category": "Food & Beverage",
+      "source_attachment": null,
+      "product_name": "Gouda cheese 48+, 500g wedges",
+      "supplier_email": "verkoop@vandijkfoods.example"
+    },
+    {
+      "brand": "Oma's Bakkerij",
+      "sku": null,
+      "condition": null,
+      "quantity_available": 1200,
+      "quantity_unit": "cases",
+      "unit_price": 21.6,
+      "currency": "EUR",
+      "price_basis": "per case of 12",
+      "ship_from": "EXW Rotterdam",
+      "valid_until": "2026-11-20",
+      "notes": "Payment 30 days",
+      "supplier_name": "Van Dijk Foods B.V.",
+      "category": "Food & Beverage",
+      "source_attachment": null,
+      "product_name": "Stroopwafels 8-pack",
+      "supplier_email": "verkoop@vandijkfoods.example"
+    },
+    {
+      "brand": "Zoet & Co",
+      "sku": null,
+      "condition": null,
+      "quantity_available": 650,
+      "quantity_unit": "cases",
+      "unit_price": 19.8,
+      "currency": "EUR",
+      "price_basis": "per case of 12",
+      "ship_from": "EXW Rotterdam",
+      "valid_until": "2026-11-20",
+      "notes": "Payment 30 days",
+      "supplier_name": "Van Dijk Foods B.V.",
+      "category": "Food & Beverage",
+      "source_attachment": null,
+      "product_name": "Chocolate sprinkles (hagelslag) 400g",
+      "supplier_email": "verkoop@vandijkfoods.example"
+    }
+  ]
+}

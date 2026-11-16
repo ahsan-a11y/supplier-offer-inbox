@@ -1,0 +1,128 @@
+{
+  "id": "19_orbit_pdf_only",
+  "kind": "offer only inside a PDF, body just says 'see attached'",
+  "message_id": "<eval-19_orbit_pdf_only@offer-inbox.test>",
+  "is_offer": true,
+  "items": [
+    {
+      "brand": "Orbit",
+      "sku": "OP-5501",
+      "condition": "New",
+      "quantity_available": 640,
+      "quantity_unit": "units",
+      "unit_price": 21.4,
+      "currency": "GBP",
+      "price_basis": "per unit",
+      "ship_from": [
+        "Ex works Leeds",
+        "EXW Leeds"
+      ],
+      "valid_until": "2026-11-30",
+      "notes": null,
+      "supplier_name": [
+        "Orbit Office Products",
+        "Orbit Office"
+      ],
+      "category": "Office Supplies",
+      "source_attachment": "doc_0412.pdf",
+      "product_name": "Copy paper A4 80gsm, 5-ream box",
+      "supplier_email": "ken@orbit-office.example"
+    },
+    {
+      "brand": "Inkline",
+      "sku": "OP-5620",
+      "condition": "New",
+      "quantity_available": 300,
+      "quantity_unit": "units",
+      "unit_price": 6.9,
+      "currency": "GBP",
+      "price_basis": "per unit",
+      "ship_from": [
+        "Ex works Leeds",
+        "EXW Leeds"
+      ],
+      "valid_until": "2026-11-30",
+      "notes": null,
+      "supplier_name": [
+        "Orbit Office Products",
+        "Orbit Office"
+      ],
+      "category": "Office Supplies",
+      "source_attachment": "doc_0412.pdf",
+      "product_name": "Ballpoint pens, blue, box of 50",
+      "supplier_email": "ken@orbit-office.example"
+    },
+    {
+      "brand": "Orbit",
+      "sku": "OP-5733",
+      "condition": "New",
+      "quantity_available": 220,
+      "quantity_unit": "units",
+      "unit_price": 14.75,
+      "currency": "GBP",
+      "price_basis": "per unit",
+      "ship_from": [
+        "Ex works Leeds",
+        "EXW Leeds"
+      ],
+      "valid_until": "2026-11-30",
+      "notes": null,
+      "supplier_name": [
+        "Orbit Office Products",
+        "Orbit Office"
+      ],
+      "category": "Office Supplies",
+      "source_attachment": "doc_0412.pdf",
+      "product_name": "Lever arch files, assorted, pack of 10",
+      "supplier_email": "ken@orbit-office.example"
+    },
+    {
+      "brand": "Notely",
+      "sku": "OP-5840",
+      "condition": "New",
+      "quantity_available": 900,
+      "quantity_unit": "units",
+      "unit_price": 3.85,
+      "currency": "GBP",
+      "price_basis": "per unit",
+      "ship_from": [
+        "Ex works Leeds",
+        "EXW Leeds"
+      ],
+      "valid_until": "2026-11-30",
+      "notes": null,
+      "supplier_name": [
+        "Orbit Office Products",
+        "Orbit Office"
+      ],
+      "category": "Office Supplies",
+      "source_attachment": "doc_0412.pdf",
+      "product_name": "Sticky notes 3x3in, 12-pad pack",
+      "supplier_email": "ken@orbit-office.example"
+    },
+    {
+      "brand": "Orbit",
+      "sku": "OP-5902",
+      "condition": "New",
+      "quantity_available": 150,
+      "quantity_unit": "units",
+      "unit_price": 8.2,
+      "currency": "GBP",
+      "price_basis": "per unit",
+      "ship_from": [
+        "Ex works Leeds",
+        "EXW Leeds"
+      ],
+      "valid_until": "2026-11-30",
+      "notes": null,
+      "supplier_name": [
+        "Orbit Office Products",
+        "Orbit Office"
+      ],
+      "category": "Office Supplies",
+      "source_attachment": "doc_0412.pdf",
+      "product_name": "Desk organiser, mesh, black",
+      "supplier_email": "ken@orbit-office.example"
+    }
+  ]
+}

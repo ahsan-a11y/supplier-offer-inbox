@@ -1,0 +1,152 @@
+{
+  "id": "02_harbor_photo",
+  "kind": "phone photo of a printed price sheet",
+  "message_id": "<eval-02_harbor_photo@offer-inbox.test>",
+  "is_offer": true,
+  "items": [
+    {
+      "brand": "Visionex",
+      "sku": "VX-55U4K",
+      "condition": "New",
+      "quantity_available": 80,
+      "quantity_unit": "units",
+      "unit_price": 289.0,
+      "currency": "USD",
+      "price_basis": "per unit",
+      "ship_from": [
+        "EXW Long Beach CA",
+        "EXW Long Beach, CA"
+      ],
+      "valid_until": "2026-11-30",
+      "notes": null,
+      "supplier_name": [
+        "Harbor Electronics Ltd",
+        "Harbor Electronics"
+      ],
+      "category": "Electronics",
+      "source_attachment": "IMG_4471.jpg",
+      "product_name": "55in 4K UHD TV",
+      "supplier_email": "mike.tran@harborelectronics.example"
+    },
+    {
+      "brand": "Visionex",
+      "sku": "VX-65U4K",
+      "condition": "New",
+      "quantity_available": 40,
+      "quantity_unit": "units",
+      "unit_price": 419.0,
+      "currency": "USD",
+      "price_basis": "per unit",
+      "ship_from": [
+        "EXW Long Beach CA",
+        "EXW Long Beach, CA"
+      ],
+      "valid_until": "2026-11-30",
+      "notes": null,
+      "supplier_name": [
+        "Harbor Electronics Ltd",
+        "Harbor Electronics"
+      ],
+      "category": "Electronics",
+      "source_attachment": "IMG_4471.jpg",
+      "product_name": "65in 4K UHD TV",
+      "supplier_email": "mike.tran@harborelectronics.example"
+    },
+    {
+      "brand": "SonicWave",
+      "sku": "SW-BAR200",
+      "condition": "New",
+      "quantity_available": 150,
+      "quantity_unit": "units",
+      "unit_price": 74.5,
+      "currency": "USD",
+      "price_basis": "per unit",
+      "ship_from": [
+        "EXW Long Beach CA",
+        "EXW Long Beach, CA"
+      ],
+      "valid_until": "2026-11-30",
+      "notes": null,
+      "supplier_name": [
+        "Harbor Electronics Ltd",
+        "Harbor Electronics"
+      ],
+      "category": "Electronics",
+      "source_attachment": "IMG_4471.jpg",
+      "product_name": "Soundbar 2.1ch",
+      "supplier_email": "mike.tran@harborelectronics.example"
+    },
+    {
+      "brand": "SonicWave",
+      "sku": "SW-EB10",
+      "condition": "New",
+      "quantity_available": 600,
+      "quantity_unit": "units",
+      "unit_price": 18.25,
+      "currency": "USD",
+      "price_basis": "per unit",
+      "ship_from": [
+        "EXW Long Beach CA",
+        "EXW Long Beach, CA"
+      ],
+      "valid_until": "2026-11-30",
+      "notes": null,
+      "supplier_name": [
+        "Harbor Electronics Ltd",
+        "Harbor Electronics"
+      ],
+      "category": "Electronics",
+      "source_attachment": "IMG_4471.jpg",
+      "product_name": "Wireless earbuds",
+      "supplier_email": "mike.tran@harborelectronics.example"
+    },
+    {
+      "brand": "ChargeIt",
+      "sku": "CI-PB20K",
+      "condition": "New",
+      "quantity_available": 900,
+      "quantity_unit": "units",
+      "unit_price": 11.8,
+      "currency": "USD",
+      "price_basis": "per unit",
+      "ship_from": [
+        "EXW Long Beach CA",
+        "EXW Long Beach, CA"
+      ],
+      "valid_until": "2026-11-30",
+      "notes": null,
+      "supplier_name": [
+        "Harbor Electronics Ltd",
+        "Harbor Electronics"
+      ],
+      "category": "Electronics",
+      "source_attachment": "IMG_4471.jpg",
+      "product_name": "Power bank 20000mAh",
+      "supplier_email": "mike.tran@harborelectronics.example"
+    },
+    {
+      "brand": "ChargeIt",
+      "sku": "CI-W15",
+      "condition": "New",
+      "quantity_available": 1200,
+      "quantity_unit": "units",
+      "unit_price": 6.4,
+      "currency": "USD",
+      "price_basis": "per unit",
+      "ship_from": [
+        "EXW Long Beach CA",
+        "EXW Long Beach, CA"
+      ],
+      "valid_until": "2026-11-30",
+      "notes": null,
+      "supplier_name": [
+        "Harbor Electronics Ltd",
+        "Harbor Electronics"
+      ],
+      "category": "Electronics",
+      "source_attachment": "IMG_4471.jpg",
+      "product_name": "Wireless charger 15W",
+      "supplier_email": "mike.tran@harborelectronics.example"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "id": "17_shipping_notice",
+  "kind": "NOT offer: shipping notification",
+  "message_id": "<eval-17_shipping_notice@offer-inbox.test>",
+  "is_offer": false,
+  "items": []
+}
